@@ -8,3 +8,4 @@
 [01.pdf](https://github.com/MafujulHaquePlabon/improve-UI-resources/files/10536339/09.pdf)
 [02.pdf](https://github.com/MafujulHaquePlabon/improve-UI-resources/files/10536391/10.pdf)
 [03.pdf](https://github.com/MafujulHaquePlabon/improve-UI-resources/files/10536393/11.pdf)
+### [Javascript_details_resource](https://with.zonayed.me/jshttps://with.zonayed.me/js)
