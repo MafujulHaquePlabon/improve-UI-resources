@@ -10,4 +10,4 @@
 [03.pdf](https://github.com/MafujulHaquePlabon/improve-UI-resources/files/10536393/11.pdf)
 ### [1.Javascript_details_resource](https://with.zonayed.me/jshttps://with.zonayed.me/js)
 ### [2.Important_email_filter_system](https://www.facebook.com/groups/phwebdevelopmentbatch7/posts/1258317724723310/?__cft__[0]=AZVXKGjLVRFzZM6wGyCnyks4M8qU3WYE_Wv84HvmKsiwPqpVGab2kxigla1WBm3LGQ6dCZtX8rzP6OK-0ikeUrwtyDBd1qutGwAQnyeV8ZdlqD7R9Xl6kkx2GBV1Ox6mZGYlqYZb7ZCPRpVxDcMYOCQ6&__tn__=R]-R)
-### 3.[productivity](https://docs.google.com/document/d/1k8BPdlc3cR_lXy_EXWQF_qMsF2Szf_04liAnNbtQGeY?authuser=mafujul15-3076%40diu.edu.bd&usp=drive_fs)
+### [3.productivity](https://docs.google.com/document/d/1k8BPdlc3cR_lXy_EXWQF_qMsF2Szf_04liAnNbtQGeY?authuser=mafujul15-3076%40diu.edu.bd&usp=drive_fs)
