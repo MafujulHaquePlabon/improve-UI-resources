@@ -13,7 +13,7 @@
 ### [3.productivity](https://docs.google.com/document/d/1k8BPdlc3cR_lXy_EXWQF_qMsF2Szf_04liAnNbtQGeY?authuser=mafujul15-3076%40diu.edu.bd&usp=drive_fs)
 ### [4.HandBrake software  Video Compressor for pc](https://handbrake.fr/downloads.php)
 ### [5.Photopea online photo editor](https://www.photopea.com/)
-### [6.Tinypng image optimized]([https://www.photopea.com/](https://tinypng.com/)
+### [6.Tinypng image optimized](https://tinypng.com/)
 
 
 
