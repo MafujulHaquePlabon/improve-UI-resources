@@ -14,6 +14,7 @@
 ### [4.HandBrake software  Video Compressor for pc](https://handbrake.fr/downloads.php)
 ### [5.Photopea online photo editor](https://www.photopea.com/)
 ### [6.Tinypng image optimized](https://tinypng.com/)
+### [7.Remove background image](https://www.remove.bg/)
 
 
 
